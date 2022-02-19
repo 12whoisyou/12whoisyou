@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @12whoisyou
-- 👀 I’m interested in programming in general.
-- 🌱 I’m currently learning all types of libs for python
+- 👀 I’m interested in programming and game creation
+- 🌱 I’m currently learning skills that will help me get a job
 - 💞️ I’m looking to collaborate on severeal projects in the future
 - 📫 How to reach me on my email Farouqjalabi@gmail.com
